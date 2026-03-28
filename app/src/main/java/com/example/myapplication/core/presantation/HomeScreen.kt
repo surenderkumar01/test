@@ -10,6 +10,7 @@ fun HomeScreen() {
 
     Scaffold { iner->
         Text("hello")
+        Text("new")
     }
 
 }
