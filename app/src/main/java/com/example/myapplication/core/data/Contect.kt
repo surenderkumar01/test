@@ -3,5 +3,5 @@ package com.example.myapplication.core.data
 data class Contect(
     val name:String?=null,
     val contectNumber:String?=null,
-    val read:String?=null
+    val read:String?=null // this file has been replecec by new things
 )
